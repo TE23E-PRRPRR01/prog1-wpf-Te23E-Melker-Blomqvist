@@ -1,0 +1,17 @@
+﻿<Window x:Class="SlumpaApp.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:SlumpaApp"
+    mc:Ignorable="d"
+    Title="MainWindow" Height="450" Width="800" Background="#EEE"
+    SizeToContent="WidthAndHeight">
+    <StackPanel Margin="10">
+        <Label Margin="10" FontSize="18">Slumpa ett tal 1-100</Label>
+        <Label>Ange maxvärde</Label>
+        <TextBox Name="txbMax" Width="200" Height="40" Margin="20" Padding="10"></TextBox>
+        <Button Click="KlickSlumpa" Margin="10" Padding="10" FontWeight="Bold">slumpa</Button>
+        <TextBox Name="txbResultat" Width="200" Height="150" Margin="10" Padding="10" TextAlignment="Center" FontSize="100"></TextBox>
+    </StackPanel>
+</Window>
