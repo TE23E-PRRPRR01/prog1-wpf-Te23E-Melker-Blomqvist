@@ -1,0 +1,4 @@
+25-03-19 13:56 Session started
+----------------------------------------
+13:56:40 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\App.xaml
+----------------------------------------
