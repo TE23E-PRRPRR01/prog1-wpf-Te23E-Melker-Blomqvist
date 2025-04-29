@@ -1,0 +1,6 @@
+14:29:03 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\indexapp\MainWindow.xaml.cs
+----------------------------------------
+25-04-29 14:29 Session started
+----------------------------------------
+14:29:05 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\App.xaml
+----------------------------------------

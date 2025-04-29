@@ -1,0 +1,12 @@
+25-04-29 13:01 Session started
+----------------------------------------
+13:01:16 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\App.xaml
+----------------------------------------
+13:01:34 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\SlumpaApp\MainWindow.xaml
+----------------------------------------
+13:01:36 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\SlumpaApp\MainWindow.xaml.cs
+----------------------------------------
+13:01:38 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\SlumpaApp\MainWindow.xaml
+----------------------------------------
+13:01:54 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\NamnApp\MainWindow.xaml
+----------------------------------------

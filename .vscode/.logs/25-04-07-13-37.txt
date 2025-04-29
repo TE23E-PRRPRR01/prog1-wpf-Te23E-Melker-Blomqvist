@@ -1,0 +1,18 @@
+25-04-07 13:37 Session started
+----------------------------------------
+13:37:03 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\epostApp\MainWindow.xaml
+----------------------------------------
+13:37:03 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\epostApp\MainWindow.xaml.cs
+----------------------------------------
+13:37:04 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\epostApp\MainWindow.xaml
+----------------------------------------
+13:37:05 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\epostApp\MainWindow.xaml.cs
+----------------------------------------
+13:37:08 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\App.xaml
+----------------------------------------
+13:40:09 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\provuppg\AssemblyInfo.cs
+----------------------------------------
+13:40:10 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\provuppg\MainWindow.xaml
+----------------------------------------
+13:40:14 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\provuppg\MainWindow.xaml.cs
+----------------------------------------

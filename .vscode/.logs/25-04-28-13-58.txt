@@ -1,0 +1,6 @@
+13:58:57 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\provuppg\MainWindow.xaml.cs
+----------------------------------------
+25-04-28 13:58 Session started
+----------------------------------------
+13:59:02 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\App.xaml
+----------------------------------------

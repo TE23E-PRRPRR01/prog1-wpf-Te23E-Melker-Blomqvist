@@ -1,0 +1,27 @@
+25-04-29 14:20 Session started
+----------------------------------------
+14:20:01 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\App.xaml
+----------------------------------------
+14:20:12 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\MelkerApp\MainWindow.xaml
+----------------------------------------
+14:20:15 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\MelkerApp\AssemblyInfo.cs
+----------------------------------------
+14:20:18 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\MelkerApp\MainWindow.xaml.cs
+----------------------------------------
+14:20:33 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\NamnApp\MainWindow.xaml.cs
+----------------------------------------
+14:20:59 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\indexapp\MainWindow.xaml.cs
+----------------------------------------
+
+14:21:05 031:013 > =
+14:21:06 031:015 > = t
+14:21:06 031:016 > = te
+14:21:06 031:017 > = tex
+14:21:06 031:018 > = text
+14:21:37 031:013 > = text b
+14:21:37 031:014 > = text bo
+14:21:38 031:015 > = text bok
+14:21:38 031:016 > = text boks
+14:21:38 031:017 > = text bokst
+14:21:38 031:018 > = text boksta
+14:21:38 031:019 > = text bokstav

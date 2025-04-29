@@ -1,0 +1,8 @@
+25-04-29 14:07 Session started
+----------------------------------------
+14:07:50 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\App.xaml
+----------------------------------------
+14:07:56 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\App.xaml
+----------------------------------------
+14:08:00 Document switched to: c:\Users\melker.blomqvist\github-classroom\prog1-wpf-Te23E-Melker-Blomqvist\AssemblyInfo.cs
+----------------------------------------

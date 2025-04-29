@@ -1,0 +1,28 @@
+﻿<Window x:Class="indexapp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:indexapp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" SizeToContent="WidthAndHeight">
+        <StackPanel Background="#EEE">
+            <Label FontSize="20" Margin="10">Välja bokstav</Label>
+    
+            <StackPanel Orientation="Horizontal">
+                <Label Margin="10" Width="70">Text</Label>
+                <TextBox Name="txbText" Margin="10" Width="150"></TextBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Width="70" Margin="10">Index</Label>
+                <TextBox Name="txbIndex" Margin="10" Width="50"></TextBox>
+            </StackPanel>
+            
+            <Button Click="KlickVisa"  Margin="10" Width="50">Visa!</Button>
+            
+            <StackPanel Orientation="Horizontal">
+                <Label Width="70" Margin="10">Resultat: </Label>
+                <TextBox Name="txbResultat" Margin="10" Width="150"></TextBox>
+            </StackPanel>
+        </StackPanel>
+</Window>
